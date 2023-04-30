@@ -8,10 +8,11 @@ Disclaimer: The tutorials are provided without guarantee using simple example da
 
 You will find the following icons throughout the text:
 
-* :pencil2: : You need to do something
-* :thought_balloon: : A question to trigger your attention on an important point of detail. Clicking the icon takes you to the answer.
-* :speech_balloon: : Something you might want to discuss with someone else (or an AI or yourself).
+-   📝 : You need to do something.
+-   💭 : A question to trigger your attention on an important point of detail.
+-   💬 : Something you might want to discuss.
+-   💡: A tip or an idea for later
 
 ## License
 
-Unless specified otherwise, the content of this repository is shared under the Creative Commons Attribution 4.0	cc-by-4.0 license.
+Unless specified otherwise, the content of this repository is shared under the Creative Commons Attribution 4.0 [cc-by-4.0](https://creativecommons.org/licenses/by/4.0/) license.
