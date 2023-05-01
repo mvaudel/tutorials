@@ -46,7 +46,7 @@ editor: visual
 
 *📝 Open [Krug et al., doi: 10.1016/j.cell.2020.10.036](https://doi.org/10.1016/j.cell.2020.10.036) and look at the figures. Would you be able to make such figures for one of your papers?*
 
-*📝 Install the latest version of RStudio \[link\](posit.co/download/rstudio-desktop/). Note that you will be asked to install R first.*
+*📝 Install the latest version of RStudio. Note that you will be asked to install R first.*
 
 *📝 Optional but recommended: create an account at [GithHub](github.com) and [OpenAI](chat.openai.com).*
 
