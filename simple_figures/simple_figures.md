@@ -71,10 +71,10 @@ asked to install R first.*
 *📝 Optional but recommended: create an account at [GithHub](github.com)
 and [OpenAI](chat.openai.com).*
 
-*📝 Prepare two sets of data: (1) one data set with values from
-different categories, e.g. values in different conditions; (2) one data
-set with one value to plot against the other, e.g. height and weight of
-individuals.*
+*📝 Prepare two sets of data where you have done figures or are planning
+to do so: (1) one data set with values from different categories,
+e.g. values in different conditions; (2) one data set with one value to
+plot against the other, e.g. height and weight of individuals.*
 
 *💡 Good file organization and naming can be a life saver, especially if
 you need to look up or change a figure after some time and in a
@@ -83,8 +83,8 @@ organize files in a clear folder organization, and use meaningful names.
 More on this in
 [OSODOS](https://pfern.github.io/OSODOS/gitbook/WORKFLOWS).*
 
-*📝 Make the plots the way you are used to using your favorite software
-and arrange them as a panel A and B for a publication.*
+*📝 Take your plots or make them using your favorite software and
+arrange them as a panel A and B as you would do for a publication.*
 
 *💬 How much did you use your mouse? What are the pros and cons of this
 approach?*
