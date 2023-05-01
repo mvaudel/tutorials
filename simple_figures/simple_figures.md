@@ -52,7 +52,7 @@ data science. Here are a few resources that you might find useful:*
 -   [*Weird but sometimes useful charts*](xeno.graphics) *to get some
     ideas.*
 
-### *Before the tutorial…*
+### *Before the workshop…*
 
 *In order to get started quickly on the day we run this tutorial, please
 do the following steps - it should only take a few minutes. If you
