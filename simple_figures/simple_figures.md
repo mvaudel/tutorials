@@ -1,5 +1,5 @@
 
-## *Simple figures*
+## *Making figures without a mouse 🐭*
 
 *In this short tutorial, we will see how to create publication-grade
 figures without using a mouse: we will write the instructions for the

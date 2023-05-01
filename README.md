@@ -8,10 +8,18 @@ Disclaimer: The tutorials are provided without guarantee using simple example da
 
 You will find the following icons throughout the text:
 
--   📝 : You need to do something.
--   💭 : A question to trigger your attention on an important point of detail.
--   💬 : Something you might want to discuss.
--   💡: A tip or an idea for later
+📝 You need to do something.
+
+💭 A question to trigger your attention on an important point of detail.
+
+💬 Something you might want to discuss.
+
+💡 A tip or an idea for later
+
+## Chapters
+
+-   [*Making figures without a mouse*](simple_figures/simple_figures.md) 🐭 \
+    In this mini-workshop, you will get some basic principles on how to generate publication-grade figures without using your mouse.
 
 ## License
 
