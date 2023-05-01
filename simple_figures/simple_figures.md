@@ -1,5 +1,3 @@
-simple_figures
-================
 
 ## Simple figures
 
@@ -87,6 +85,9 @@ and arrange them as a panel A and B for a publication.
 
 *💬 How much did you use your mouse? What are the pros and cons of this
 approach?*
+
+📝 Optional but recommended: create an account at [GithHub](github.com)
+and [OpenAI](chat.openai.com).
 
 ### Download to your computer
 

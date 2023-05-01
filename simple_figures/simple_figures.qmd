@@ -1,5 +1,5 @@
 ---
-title: "simple_figures"
+title: ""
 format: md
 editor: visual
 ---
@@ -55,6 +55,8 @@ In order to get started quickly on the day we run this tutorial, please do the f
 📝 Make the plots the way you are used to using your favorite software and arrange them as a panel A and B for a publication.
 
 *💬 How much did you use your mouse? What are the pros and cons of this approach?*
+
+📝 Optional but recommended: create an account at [GithHub](github.com) and [OpenAI](chat.openai.com).
 
 ### Download to your computer
 
@@ -174,6 +176,7 @@ ggplot() +
     ),
     alpha = 0.1
   )
+
 ```
 
 You can easily overlay the different geometries, e.g. to combine the sina and box plots.
