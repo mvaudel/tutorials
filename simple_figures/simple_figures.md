@@ -68,6 +68,9 @@ of your papers?*
 \[link\](posit.co/download/rstudio-desktop/). Note that you will be
 asked to install R first.*
 
+*📝 Optional but recommended: create an account at [GithHub](github.com)
+and [OpenAI](chat.openai.com).*
+
 *📝 Prepare two sets of data: (1) one data set with values from
 different categories, e.g. values in different conditions; (2) one data
 set with one value to plot against the other, e.g. height and weight of
@@ -85,9 +88,6 @@ and arrange them as a panel A and B for a publication.*
 
 *💬 How much did you use your mouse? What are the pros and cons of this
 approach?*
-
-*📝 Optional but recommended: create an account at [GithHub](github.com)
-and [OpenAI](chat.openai.com).*
 
 ### *Download to your computer*
 
