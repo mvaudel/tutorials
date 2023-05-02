@@ -18,7 +18,7 @@ You will find the following icons throughout the text:
 
 ## Chapters
 
--   [*Making figures without a mouse*](simple_figures/simple_figures.md) 🐭 \
+-   [*Making figures without a mouse*](simple_figures/simple_figures.md) 🐭\
     In this mini-workshop, you will get some basic principles on how to generate publication-grade figures without using your mouse.
 
 ## License

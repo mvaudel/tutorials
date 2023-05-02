@@ -30,27 +30,29 @@ to:
 This tutorial is a very brief introduction to some powerful tools for
 data science. Here are a few resources that you might find useful:
 
--   [Fundamentals of Data Visualization](clauswilke.com/dataviz) and
-    [Data Visualization - A practical
-    introduction](socviz.co/index.html), excellent books providing
-    fundamental knowledge on data visualization. [Graphic methods for
-    presenting
+-   [Fundamentals of Data
+    Visualization](https://clauswilke.com/dataviz/) and [Data
+    Visualization - A practical
+    introduction](https://socviz.co/index.html), excellent books
+    providing fundamental knowledge on data visualization. [Graphic
+    methods for presenting
     facts](https://archive.org/details/graphicmethodsfo00brinrich/mode/1up?view=theater),
     a reference book on data visualization.
 
--   [R for data science](r4ds.hadley.nz), a book on how to import, tidy,
-    transform, visualize, and model data using the tools that we
-    introduce in this workshop.
+-   [R for data science](https://r4ds.hadley.nz/), a book on how to
+    import, tidy, transform, visualize, and model data using the tools
+    that we introduce in this workshop.
 
--   [Open Science, Open Data, Open Source](osodos.org), OSODOS, a book
-    providing an overview over developments in open science.
+-   [Open Science, Open Data, Open Source](http://osodos.org), OSODOS, a
+    book providing an overview over developments in open science.
 
--   Resources on [scientific color palettes](fabiocrameri.ch/colourmaps)
-    and [color perception
-    simulation](color-blindness.com/coblis-color-blindness-simulator).
+-   Resources on [scientific color
+    palettes](https://www.fabiocrameri.ch/colourmaps/) and [color
+    perception
+    simulation](https://www.color-blindness.com/coblis-color-blindness-simulator/).
 
--   [Weird but sometimes useful charts](xeno.graphics) to get some
-    ideas.
+-   [Weird but sometimes useful charts](https://xeno.graphics/) to get
+    some ideas.
 
 ### Before the workshop…
 
@@ -64,11 +66,17 @@ the workshop.
 and look at the figures. *Would you be able to make such figures for one
 of your papers?*
 
-📝 Install the latest version of RStudio. Note that you will be asked to
-install R first.
+📝 Optional but recommended: create an account at
+[GithHub](https://github.com/) and
+[OpenAI](https://chat.openai.com/auth/login). You can use GitHub to
+store your data, and OpenAI to get ideas and tips.
 
-📝 Optional but recommended: create an account at [GithHub](github.com)
-and [OpenAI](chat.openai.com).
+📝 Make sure that you have [git](https://git-scm.com/downloads)
+installed.
+
+📝 Install the latest version of RStudio. Note that you will be asked to
+install R first. If it is not done already, and [set up git in
+Rstudio](https://geo.uzh.ch/microsite/reproducible_research/post/rr-rstudio-git/).
 
 📝 Prepare two sets of data where you have done figures or are planning
 to do so: (1) one data set with values from different categories,
