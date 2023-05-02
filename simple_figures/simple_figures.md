@@ -598,14 +598,14 @@ plot_values <- ggplot(
     limits = c(-1, 1)
   ) +
   scale_xsidey_continuous(
-    limits = c(0, 4.5)
+    limits = c(0, 2.7)
   ) +
   scale_y_continuous(
     name = "Protein vs. Gene",
     limits = c(-1, 1)
   ) +
   scale_ysidex_continuous(
-    limits = c(0, 4.5)
+    limits = c(0, 2.7)
   ) +
   scale_color_manual(
     values = c("red3", "grey30")
@@ -643,7 +643,7 @@ plot(plot_values)
 
 ![](simple_figures.markdown_strict_files/figure-markdown_strict/unnamed-chunk-14-1.png)
 
-### Assemble into a single plot
+### Assemble into a single figure
 
 Once you have all your panels designed the way you want, you can
 assemble them into a multi-panel figure using the
