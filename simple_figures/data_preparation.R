@@ -1,5 +1,6 @@
 library(janitor)
 library(tidyverse)
+library(mclust)
 
 cnaDF <- read.table(
   file = "resources/SCNA.gz",
@@ -118,4 +119,36 @@ write.table(
   row.names = F,
   sep = "\t"
 )
+
+cnaRnaProteinCorrelationDF <- cnaRnaProteinCorrelationDF %>% 
+  filter(
+    !is.na(r_cna_rna) & !is.na(r_cna_protein)
+  ) %>%
+  mutate(
+    attenuation_coefficient = r_cna_protein - r_cna_rna
+  )
+
+gmm <- densityMclust(cnaRnaProteinCorrelationDF$attenuation_coefficient)
+
+summary(gmm, parameters = TRUE)
+
+cnaRnaProteinCorrelationDF$attenuation_p <- pnorm(
+  q = cnaRnaProteinCorrelationDF$attenuation_coefficient,
+  mean = gmm$parameters$mean[3],
+  sd = sqrt(gmm$parameters$variance$sigmasq[3])
+)
+
+cnaRnaProteinCorrelationDF$attenuation_category <- factor(
+  x = ifelse(cnaRnaProteinCorrelationDF$attenuation_p <= 0.05, "Attenuated", "Background"),
+  levels = c("Attenuated", "Background")
+)
+
+write.table(
+  x = cnaRnaProteinCorrelationDF,
+  file = gzfile("resources/attenuation.gz"),
+  col.names = T,
+  row.names = F,
+  sep = "\t"
+)
+
 
