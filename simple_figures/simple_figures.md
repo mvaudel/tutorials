@@ -617,7 +617,7 @@ plot_values <- ggplot(
     legend.justification = c(0, 1), 
     legend.position = c(0.01, 0.99),
     legend.title = element_blank(),
-    ggside.panel.scale = 0.3,
+    ggside.panel.scale = 0.2,
     ggside.axis.ticks = element_blank(),
     ggside.axis.text = element_blank(),
     ggside.panel.grid = element_blank(),
